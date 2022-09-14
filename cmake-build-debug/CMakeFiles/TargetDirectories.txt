@@ -1,0 +1,4 @@
+/Users/antonio/Desktop/esLabIA/PROGETTO_hist/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/antonio/Desktop/esLabIA/PROGETTO_hist/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/antonio/Desktop/esLabIA/PROGETTO_hist/cmake-build-debug/CMakeFiles/main.dir
+/Users/antonio/Desktop/esLabIA/PROGETTO_hist/cmake-build-debug/CMakeFiles/uwimg++.dir
